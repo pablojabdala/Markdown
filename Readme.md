@@ -87,7 +87,8 @@ int main()
 <!-- GitHub -->
 
 * [X] Task 1
-* [] Task 2
-* [] Task 3
+* [ ] Task 2
+* [ ] Task 3
+* [ ] Task 4
 
 @Prueba :smiley: :+1:
